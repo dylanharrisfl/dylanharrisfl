@@ -7,7 +7,7 @@
 
 ---
 ### Current Role
-I'm currently a Level II IT Technician at MetroTech IT, an MSP based out of Clearwater, Florida. I started my journey in tech at a local trade school to earn myself foundational computer networking and IT skills.
+I'm currently a Level II IT Technician at MetroTech IT, an MSP based out of Clearwater, Florida. I started my journey in tech at a local trade school to earn myself foundational computer networking and IT skills right out of high school.
 I began at MetroTech in April 2024 and couldn't be happier with the experience and skills I've gained here.
 
 ---
