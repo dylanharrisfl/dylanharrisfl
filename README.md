@@ -1,5 +1,5 @@
 ---
-<h1 align="center"> IT & Cybersecurity Professional </h1>
+<h1 align="center"> Cybersecurity & IT Professional </h1>
 <p align="center">
   <strong>Hello, I'm Dylan</strong><br>
   I'm a technical professional passionate about defense-oriented cybersecurity operations.
