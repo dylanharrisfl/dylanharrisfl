@@ -35,6 +35,36 @@
 - [Linux Malware Analysis](https://github.com/dylanharrisfl/DFIR-LinuxMalwareAnalysis) — Identifying, containing, and remediating malware on a production Linux system.
 - [SIEM Log Pipeline with AI](https://github.com/dylanharrisfl/AI-SECURITY-SIEMLogPipelineWithAI) — Using AI to improve L1 triage and MITRE ATT&CK mapping from SIEM logs/alerts.
 - [SIEM Log Ingestion and Exclusions](https://github.com/dylanharrisfl/SIEM-LogInjestionAndExclusions) — Excluding a honeypot's expected traffic from SIEM alerting.
+---
+### Labs & Projects
+
+#### TryHackMe SOC Analyst 1 Pathway Walkthrough
+- [TryHackMe SOC Level 1 Pathway](https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway) — Walkthrough of the SOC Analyst Level 1 pathway on TryHackMe.
+
+#### SOC Fundamentals
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/BlueTeamIntroduction.md#blue-team-introduction" target="_blank" rel="noopener noreferrer">Blue Team Basics</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/SOCTeamInternals.md#events-and-alerts" target="_blank" rel="noopener noreferrer">Alerts/Triage</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/SOCTeamInternals.md#alert-reporting-and-escalations" target="_blank" rel="noopener noreferrer">Escalations</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/SOCTeamInternals.md#soc-metrics-and-objectives" target="_blank" rel="noopener noreferrer">SOC Metrics and Objectives</a>
+
+#### Security Tools
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CoreSOCSolutions.md#introduction-to-edr" target="_blank" rel="noopener noreferrer">EDR</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CoreSOCSolutions.md#introduction-to-siem" target="_blank" rel="noopener noreferrer">SIEM</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CoreSOCSolutions.md#introduction-to-soar" target="_blank" rel="noopener noreferrer">SOAR</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CoreSOCSolutions.md#splunk-fundamentals" target="_blank" rel="noopener noreferrer">Splunk</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CoreSOCSolutions.md#elastic-stack-fundamentals" target="_blank" rel="noopener noreferrer">Elastic Stack</a>
+ - <a href="https://github.com/dylanharrisfl/NETSEC-DefenseAgainstMiTM#part-1--arp-spoofing" target="_blank" rel="noopener noreferrer">Wireshark</a>
+
+#### Frameworks
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CyberDefenseFramworks.md#the-pyramid-of-pain" target="_blank" rel="noopener noreferrer">Pyramid of Pain</a>
+ - <a href="https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway/blob/main/CyberDefenseFramworks.md#the-lockheed-martin-cyber-kill-chain" target="_blank" rel="noopener noreferrer">Cyber Kill Chain</a>
+ - MITRE ATT&CK
+ - NIST CSF 2.0
+
+#### Miscellaneous Independent Labs/Writeups
+- [Linux Malware Analysis](https://github.com/dylanharrisfl/DFIR-LinuxMalwareAnalysis) — Identifying, containing, and remediating malware on a production Linux system.
+- [SIEM Log Pipeline with AI](https://github.com/dylanharrisfl/AI-SECURITY-SIEMLogPipelineWithAI) — Using AI to improve L1 triage and MITRE ATT&CK mapping from SIEM logs/alerts.
+- [SIEM Log Ingestion and Exclusions](https://github.com/dylanharrisfl/SIEM-LogInjestionAndExclusions) — Excluding a honeypot's expected traffic from SIEM alerting.
 
 ---
 ### Current Role
