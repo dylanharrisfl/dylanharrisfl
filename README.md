@@ -44,7 +44,7 @@ I began at MetroTech in April 2024 and couldn't be happier with the experience a
 ---
 
 ### Education
-I began my journey for an official [A.S. degree in Cybersecurity from St. Petersburg College](https://www.spcollege.edu/future-students/degrees-training/technology/cybersecurity/cybersecurity-as-degree) recently, and am on track to finish with a 4.0 GPA at the end of 2026. St. Petersburg College has been designated as a National Center of Academic Excellence in Cyber Defense Two-Year Education through the academic year 2029 by the NSA and DHS.
+I began my journey for an official [Bachelors of Science degree in Cybersecurity from St. Petersburg College](https://www.spcollege.edu/future-students/degrees-training/technology/cybersecurity/cybersecurity-as-degree) recently, and am on track to finish with a 4.0 GPA at the end of 2027. St. Petersburg College has been designated as a National Center of Academic Excellence in Cyber Defense Two-Year Education through the academic year 2029 by the NSA and DHS.
 This experience has allowed me to collaborate with other students through the TitanSec Cybersecurity Club to sharpen my skills, engage in CTFs, and work as a team to solve problems.
 
 ---
